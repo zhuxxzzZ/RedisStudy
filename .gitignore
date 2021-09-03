@@ -1,0 +1,3 @@
+# Project exclude paths
+/redis-01-Jedis/target/
+/redis-02-Boot/target/

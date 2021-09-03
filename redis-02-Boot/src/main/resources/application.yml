@@ -1,0 +1,9 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: Redis-02-SpringBoot
+  redis:
+    host: "192.168.73.129"
+    port: 6379
